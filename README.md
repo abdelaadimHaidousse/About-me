@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/yahyaa zaizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yahyaa zaizi" height="30" width="40" /></a>
+<a href="https://fb.com/Ab Do" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ab Do" height="30" width="40" /></a>
 <a href="https://instagram.com/_abdou_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_abdou_v" height="30" width="40" /></a>
 </p>
 
@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelaadimhaidousse&show_icons=true&locale=en&layout=compact" alt="abdelaadimhaidousse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyazaizi&show_icons=true&locale=en" alt="abdelaadimHaidousse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelaadimHaidousse&show_icons=true&locale=en" alt="abdelaadimHaidousse" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyazaizi&" alt="abdelaadimHaidousse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelaadimHidousse&" alt="abdelaadimHaidousse" /></p>
