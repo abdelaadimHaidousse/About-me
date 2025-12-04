@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelaadimHaidousse" alt="abdelaadimHaidousse" /></a> </p>
 
-- 📫 How to reach me émail **Abdelaadimv@gmail.com**
+- 📫 How to reach me émail **abdelaadimv@gmail.com**
 
 - ⚡ Fun fact **I have skills to learn information technology**
 
